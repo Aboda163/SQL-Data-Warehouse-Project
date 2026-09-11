@@ -39,4 +39,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Abdullah**. I'm an undergraduate student studying Computer Science and Artificial Intelligence at Capital University in Egypt. As an aspiring AI engineer and data scientist, I am passionate about applying Python, machine learning, and data analytics to build impactful solutions!
+Hi there! I'm **Abdallah**. I'm an undergraduate student studying Computer Science and Artificial Intelligence at Capital University in Egypt. As an aspiring AI engineer and data scientist, I am passionate about applying Python, machine learning, and data analytics to build impactful solutions!
